@@ -1,0 +1,10 @@
+.Header {
+    padding-top: 75px;
+    margin-bottom: 12px;
+}
+
+.HeaderText {
+    padding-top: 25px;
+    padding-left: 25px;
+    text-align: left;
+}

@@ -21,17 +21,20 @@ const theme = createMuiTheme({
       default: '#282c34',
     },
   },
+  typography: {
+    fontFamily: 'Rubik',
+  },
   overrides: {
     MuiPaper: {
       root: {
-        padding: '20px 10px',
-        margin: '10px',
+        padding: '0',
+        marginTop: '0',
         backgroundColor: '#fff', // 5d737e
       },
     },
     MuiButton: {
       root: {
-        margin: '5px',
+        margin: '0',
       },
     },
   },
